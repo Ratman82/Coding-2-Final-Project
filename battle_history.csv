@@ -1,0 +1,10 @@
+player_hp,enemy_hp,player_speed,enemy_speed,player_type,enemy_type,action
+67,23,88,100,poison,fire,Jump Kick
+2,95,88,60,poison,dark,Jump Kick
+58,42,109,60,bug,dark,Jump Kick
+58,71,109,92,bug,bug,Fury Cutter
+58,70,109,108,bug,bug,Megahorn
+30,70,109,108,bug,bug,Gastro Acid
+30,90,109,55,bug,electric,Fly
+30,85,109,35,bug,ghost,Megahorn
+70,59,90,35,grass,ghost,Fury Cutter

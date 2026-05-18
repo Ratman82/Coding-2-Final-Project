@@ -57,7 +57,7 @@ def test_damage():
     assert dmg > 0
     assert isinstance(dmg, int)
 
-def test_zero_power_damage():
+def test_zero_damage():
 
     attacker = make_pokemon("Pikachu", "electric")
     defender = make_pokemon("Squirtle", "water")
@@ -83,7 +83,7 @@ def test_take_damage():
     assert pokemon.fainted is False
 
 
-def test_faint():
+def test_fainted():
 
     pokemon = make_pokemon("Gengar", "ghost")
     pokemon.take_damage(150)

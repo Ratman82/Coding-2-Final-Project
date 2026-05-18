@@ -8,3 +8,16 @@ player_hp,enemy_hp,player_speed,enemy_speed,player_type,enemy_type,action
 30,90,109,55,bug,electric,Fly
 30,85,109,35,bug,ghost,Megahorn
 70,59,90,35,grass,ghost,Fury Cutter
+14,110,45,80,fairy,ice,Play Rough
+70,110,95,80,water,ice,Light of Ruin
+70,85,95,100,water,normal,Fishious Rend
+90,85,55,100,electric,normal,Fishious Rend
+38,70,55,105,electric,electric,Overdrive
+38,70,55,105,electric,electric,Fissure
+38,70,55,105,electric,electric,Fissure
+80,70,75,105,poison,electric,Overdrive
+26,70,75,105,poison,electric,Meditate
+75,70,50,105,grass,electric,Dire Claw
+75,45,50,105,grass,electric,Dragon Darts
+109,45,45,105,electric,electric,Energy Ball
+8,72,45,68,electric,rock,Fleur Cannon

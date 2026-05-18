@@ -2,16 +2,16 @@
 
 
 ## 1. Basic Info
- - Reviewer:
- - Author of code:
- - Project name:
- - Date:
+ - Reviewer: elliot
+ - Author of code: lucas
+ - Project name: poke-battle
+ - Date: 5/18/26
 
 ---
 
 ## 2. What the Code is Supposed to Do
 
-In my understanding, this program is trying to...
+In my understanding, this program is trying to... recreate the battle system from pokemon
 
 
 ---
@@ -20,73 +20,73 @@ In my understanding, this program is trying to...
 
 Does the code work as expected?
 
-- [ ] Works as expected  
+- [x] Works as expected  
 - [ ] Partially works  
 - [ ] Does not work  
 
 **Notes:**
-- What works:
-- What doesn't work:
-- Any error messages:
+- What works: pretty much everything
+- What doesn't work: fissure, some update issues
+- Any error messages: no
 
 ---
 
 ## 4. Code Clarity & Readability
 
 - [ ] Easy to read  
-- [ ] Somewhat confusing  
+- [x] Somewhat confusing  
 - [ ] Hard to follow  
 
 **Comments:**
-- Are variable names meaningful?
-- Are functions clearly named?
-- Is the code logically organized?
+- Are variable names meaningful? yes
+- Are functions clearly named? yes
+- Is the code logically organized? mostly
 
 ---
 
 ## 5. Structure & Design
 
-- [ ] Well structured  
+- [x] Well structured  
 - [ ] Needs improvement  
 - [ ] Disorganized  
 
 **Comments:**
-- Are functions used well?
-- Is there repeated code that could be simplified?
-- Could anything be broken into smaller functions?
+- Are functions used well? yes
+- Is there repeated code that could be simplified? not that I saw
+- Could anything be broken into smaller functions? no, it seemed pretty well divided
 
 ---
 
 ## 6. Python Best Practices
 
-- [ ] Good practices used  
+- [x] Good practices used  
 - [ ] Some issues  
 - [ ] Major issues  
 
 **Check for:**
-- Proper indentation
-- Clean and readable code
-- Appropriate use of loops and conditionals
-- Avoidance of unnecessary global variables
+- Proper indentation: yes
+- Clean and readable code: yes
+- Appropriate use of loops and conditionals: yes
+- Avoidance of unnecessary global variables: yes
 
 ---
 
 ## 7. Bugs or Issues Found
 
-Be specific and helpful.
+Be specific and helpful. one of the moves is iffy, and it sometimes doesn't update right away
 
 ---
 
 ## 8. Suggested Improvements
 
-Provide actionable suggestions:
+Provide actionable suggestions: items and move subtypes
 
 
 ---
 
 ## 9. Positive Feedback
 
-List at least two things done well:
+List at least two things done well: the interface was clean and relatively undestandable, and the fact that the computer uses past battles to learn is awasome
 
 
 ---
@@ -95,9 +95,10 @@ List at least two things done well:
 
 Overall evaluation:
 
-- [ ] Excellent  
+- [x] Excellent  
 - [ ] Good  
 - [ ] Needs improvement  
 - [ ] Needs significant revision  
 
 **Summary:**
+As a pokemon fan, I really liked this program, because it captured most of the mechanics of the game very well. it worked and was overall just very well done.

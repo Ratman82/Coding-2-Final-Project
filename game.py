@@ -69,9 +69,8 @@ STATUS_PARALYSIS = "paralysis"
 def apply_status(target, status):
     if target.status is not None:
         return f"{target.name} already has a condition!"
-    target.status = status
-    if status == STATUS_BURN:
-        return f"{target.name} was burned! 🔥"
+    if target.status == STATUS_BURN:
+         return f"{target.name} was burned! 🔥"
     if status == STATUS_PARALYSIS:
         return f"{target.name} was paralyzed! ⚡"
     return ""
